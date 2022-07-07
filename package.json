@@ -33,7 +33,7 @@
     "firebase": "^5.9.4",
     "gh-pages": "^2.1.1",
     "history": "^4.9.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-sass": "^4.11.0",
     "normalize.css": "^8.0.1",
     "numeral": "^2.0.6",
